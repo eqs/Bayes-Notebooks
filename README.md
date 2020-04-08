@@ -12,6 +12,16 @@
 
 * [GMMのギプスサンプリングの実装](https://nbviewer.jupyter.org/github/eqs/Bayes-Notebooks/blob/master/GMM/GS_GMM.ipynb)
 
+## ディリクレ過程混合ガウスモデル (Dirichlet Process GMM: DPGMM)
+
+<div align="center">
+
+![gs_dpgmm_result](./DPGMM/gs_dpgmm.gif)
+
+</div>
+
+* [DPGMMのギプスサンプリングの実装](https://nbviewer.jupyter.org/github/eqs/Bayes-Notebooks/blob/master/DPGMM/GS_DPGMM.ipynb)
+
 
 ## 無限関係モデル (Infinite Relational Model: IRM)
 
